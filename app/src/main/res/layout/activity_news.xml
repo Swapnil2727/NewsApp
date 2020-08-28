@@ -26,9 +26,10 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
+        android:background="@color/design_default_color_primary"
         app:menu="@menu/menu"
-        app:itemIconTint="@color/primary"
-        app:itemTextColor="@color/secondary_text"
+        app:itemIconTint="@color/primary_light"
+        app:itemTextColor="@color/primary_light"
         app:layout_constraintStart_toStartOf="parent"/>
 
 
